@@ -1,0 +1,66 @@
+input {
+    background: #edf2f7;
+    width: 336px;
+    padding: 16px;
+    border: 0px;
+    margin: 4px 0px 32px;
+    }
+label{
+    color: #4A5568;
+    text-align: left !important;
+   }
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
+.Signup{
+    padding: 40px 40px 48px;
+    border-radius: 1.25rem 1.25rem 1.25rem 0rem;
+    background-color: white;
+ }
+button{
+    color: #ffffff;
+    font-family: 14px U8, sans-serif;
+    background: #083E9E;
+    margin: 32px 0px 0px;
+    width: 368px;
+    padding: 20px 40px 16px;
+    border-radius: 1.25rem 1.25rem 1.25rem 0rem;
+
+}
+img{
+    margin: 0px 0px 48px;
+    align-content: center;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2{
+    margin: 0px;
+    color: #083E9E;
+    text-align: center;
+    font-family: 24px sans-serif;
+}
+h6{
+    margin:0px 0px 32px;
+    color: #4A5568;
+    font-family: 14px Karla, sans-serif;
+    text-align: center;
+}
+h5{
+    font-family: 14px karla, sans-serif;
+    color: white;
+    padding: 4px 20px;
+    margin: 32px 0px 0px;
+}
+body{
+    background-color: #ADD8E6;
+
+}
+input{
+    color: #ADD8E6;
+}
