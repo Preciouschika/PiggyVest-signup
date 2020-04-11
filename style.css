@@ -3,6 +3,7 @@ input {
     width: 336px;
     padding: 16px;
     border: 0px;
+    border-radius: 0.25rem;
     margin: 4px 0px 32px;
     }
 label{
@@ -27,7 +28,8 @@ button{
     margin: 32px 0px 0px;
     width: 368px;
     padding: 20px 40px 16px;
-    border-radius: 1.25rem 1.25rem 1.25rem 0rem;
+    border: none;
+    border-radius: 0.75rem 0.75rem 0.75rem 0rem;
 
 }
 img{
